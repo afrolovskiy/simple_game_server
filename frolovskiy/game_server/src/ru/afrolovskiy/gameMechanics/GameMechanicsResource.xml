@@ -1,0 +1,5 @@
+<class name="ru.afrolovskiy.gameMechanics.GameMechanicsResource">
+	<FIELD_ROW_COUNT>40</FIELD_ROW_COUNT>
+	<FIELD_COLUMN_COUNT>40</FIELD_COLUMN_COUNT>
+	<SLEEP_TIME>100</SLEEP_TIME>
+</class>

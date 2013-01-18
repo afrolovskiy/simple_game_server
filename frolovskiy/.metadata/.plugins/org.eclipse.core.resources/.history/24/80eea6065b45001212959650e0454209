@@ -1,0 +1,5 @@
+package ru.afrolovskiy.accountService;
+
+public class UserDAO {
+
+}
